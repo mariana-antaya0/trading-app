@@ -1,2 +1,2 @@
 # trading-app
-Personal full stack app and also
+Personal full stack app and algo
